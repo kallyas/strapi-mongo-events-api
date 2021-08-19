@@ -1,0 +1,1 @@
+# strapi-mongo-events-api
