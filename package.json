@@ -1,0 +1,36 @@
+{
+  "name": "events-api",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "strapi": "3.6.7",
+    "strapi-admin": "3.6.7",
+    "strapi-utils": "3.6.7",
+    "strapi-plugin-content-type-builder": "3.6.7",
+    "strapi-plugin-content-manager": "3.6.7",
+    "strapi-plugin-users-permissions": "3.6.7",
+    "strapi-plugin-email": "3.6.7",
+    "strapi-plugin-upload": "3.6.7",
+    "strapi-plugin-i18n": "3.6.7",
+    "strapi-connector-mongoose": "3.6.7"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "f04f0866-0246-4d7f-8eb6-ea97488d1882"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": "^6.0.0"
+  },
+  "license": "MIT"
+}
